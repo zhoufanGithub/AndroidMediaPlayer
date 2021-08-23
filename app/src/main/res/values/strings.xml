@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidMediaPlayer</string>
+    <string name="default_title">标题</string>
+</resources>
